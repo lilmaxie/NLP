@@ -5,3 +5,5 @@ pandas
 nltk
 gensim
 regex
+beautifulsoup4
+#lxml
