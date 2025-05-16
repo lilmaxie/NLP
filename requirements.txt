@@ -3,11 +3,6 @@ tqdm
 scikit-learn
 numpy
 pandas
-nltk
-gensim
-regex
-beautifulsoup4
-#lxml
 tensorflow==2.8.0
 tensorboard
 matplotlib
